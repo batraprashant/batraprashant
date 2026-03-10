@@ -1,4 +1,8 @@
 ## Hi there 👋
+Welcome to my GitHub repository!
+As a PM with over 20+ years of total experience and 14 years of Product Management leadership, I am more excited than ever to become a builder again!
+This reposiroty will be the source of all my AI experiments, as I become the Product Engineer, I have all always wanted to be!
+No constraints - build for value with complete empowerment!
 
 <!--
 **batraprashant/batraprashant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
